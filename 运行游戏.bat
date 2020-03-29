@@ -1,0 +1,1 @@
+java -Djava.library.path=./libs/natives/windows -jar TankGame.jar
